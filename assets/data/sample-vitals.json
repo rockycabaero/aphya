@@ -1,0 +1,47 @@
+[
+    {
+        "date": "26/06/2018",
+        "label": "Temperature",
+        "temperature": 98,
+        "blood_pressure": 118,
+        "heart_rate": 65,
+        "oxygen": 96,
+        "respiratory_rate": 28
+    },
+    {
+        "date": "27/06/2018",
+        "label": "Temperature",
+        "temperature": 96,
+        "blood_pressure": 120,
+        "heart_rate": 66,
+        "oxygen": 100,
+        "respiratory_rate": 30
+    },
+    {
+        "date": "28/06/2018",
+        "label": "Temperature",
+        "temperature": 98,
+        "blood_pressure": 125,
+        "heart_rate": 64,
+        "oxygen": 98,
+        "respiratory_rate": 28
+    },
+    {
+        "date": "29/06/2018",
+        "label": "Temperature",
+        "temperature": 94,
+        "blood_pressure": 130,
+        "heart_rate": 66,
+        "oxygen": 94,
+        "respiratory_rate": 29
+    },
+    {
+        "date": "30/06/2018",
+        "label": "Temperature",
+        "temperature": 92,
+        "blood_pressure": 128,
+        "heart_rate": 68,
+        "oxygen": 96,
+        "respiratory_rate": 28
+    }
+]
